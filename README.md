@@ -6,7 +6,7 @@
 
 ## システム構成
 
-<img src="./_docs/system.png" width=600>
+<img src="./_docs/_system.png" width=600>
 
 ## 利用している技術
 - TypeScript
